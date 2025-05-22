@@ -1,0 +1,12 @@
+*.pyc
+venv
+test
+base_model
+dist
+rvc_python/base_model
+out
+2.mp3
+/models
+*.wav
+.DS_Store
+/rvc_models
